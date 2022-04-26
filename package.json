@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jamalali/webflowify/issues"
   },
-  "homepage": "https://github.com/jamalali/webflowify#readme"
+  "homepage": "https://github.com/jamalali/webflowify#readme",
+  "publishConfig": {
+    "@jamalali:registry": "https://npm.pkg.github.com"
+  }
 }

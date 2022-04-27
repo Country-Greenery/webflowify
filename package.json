@@ -18,5 +18,9 @@
   "homepage": "https://github.com/jamalali/webflowify#readme",
   "publishConfig": {
     "@jamalali:registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "shopify-buy": "^2.15.1"
   }
 }
